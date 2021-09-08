@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div class=nav>
-      <p>Senzori</p>
+      <p>Welcome to our app!</p>
     </div>
     <div id="chart">
         <apexchart type="bar" height="550" :options="chartOptions" :series="series"></apexchart>
